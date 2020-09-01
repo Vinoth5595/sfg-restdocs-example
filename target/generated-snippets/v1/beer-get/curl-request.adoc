@@ -1,0 +1,5 @@
+[source,bash]
+----
+$ curl 'https://my-host-machine/api/v1/beer/ce8a4ac7-b1b9-4d0e-95eb-faaaf4200e5d?isCold=yes' -i -X GET \
+    -H 'Accept: application/json'
+----

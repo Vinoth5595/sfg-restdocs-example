@@ -1,0 +1,7 @@
+[source,http,options="nowrap"]
+----
+GET /api/v1/beer/ce8a4ac7-b1b9-4d0e-95eb-faaaf4200e5d?isCold=yes HTTP/1.1
+Accept: application/json
+Host: my-host-machine
+
+----
